@@ -1,0 +1,16 @@
+{
+  "name": "qora",
+  "version": "1.0.0",
+  "description": "Proyect for ETH Global",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "llm-wallet-mcp": "^1.6.9"
+  }
+}
